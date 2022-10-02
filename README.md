@@ -1,5 +1,7 @@
 # trees
 
-CSS image rotation.
+Testing some "image rotation" with CSS.
 
 Live demo: https://felipefigueiredo-tree.netlify.app/
+
+Update 02/10/2022 - Added Song.
